@@ -144,7 +144,7 @@ clear_pipenv_cache() {
         echo
         echo "🧽 Attempting to clean pipenv cache"
         echo
-        pipenv --clear || { echo "❌ Failed to clear cache"; return 1; }
+        pipenv lock --clear || { echo "❌ Failed to clear cache"; return 1; }
         echo
         echo "🧹 Pip cache cleared"
 
