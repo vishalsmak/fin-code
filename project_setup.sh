@@ -6,10 +6,10 @@
 #              creating a virtual environment, 
 #              installing dependencies, and performing 
 #              other project-specific actions.
-# Author: Anuj Khandelwal
+# Author: Vishal Makode
 # Date: 30-05-2023
-# Last Modified: 10-06-2023
-# Contact: anujonthemove@gmail.com
+# Last Modified: 07-06-2024
+# Contact: 
 #######################################################
 
 # Helper functions

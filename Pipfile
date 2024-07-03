@@ -17,6 +17,7 @@ ipykernel = "*"
 yfinance = "*"
 sqlalchemy = "*"
 cufflinks = "*"
+torch = "*"
 
 [dev-packages]
 pre-commit = "*"

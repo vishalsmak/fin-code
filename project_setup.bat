@@ -2,10 +2,6 @@
 
 REM Project Setup Script
 REM
-REM Author: Anuj Khandelwal
-REM Date: 30-05-2023
-REM Last Modified: 12-06-2023
-REM Contact: anujonthemove@gmail.com
 REM
 REM Description:
 REM This script sets up a Python project by creating a virtual environment, 
